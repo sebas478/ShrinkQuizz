@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="userTv" type="id" />
+    <item name="userSb" type="id" />
+    <item name="loverTv" type="id" />
+    <item name="loverSb" type="id" />
+</resources>
